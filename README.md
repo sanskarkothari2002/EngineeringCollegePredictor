@@ -4,4 +4,4 @@ This project is a web application that helps aspiring engineering students make 
 
 # Problem Statement
 
-Bridging the information gap in college selection for aspiring engineers, our web application aims to simplify the process, making it accessible to students in rural areas, and ensuring they receive pertinent details for informed decision-making.
+Bridging the information gap in college selection for aspiring engineers, our web application aims to simplify the process, making it accessible to students in rural areas and ensure that they get pertinent details to make informed decisions.
