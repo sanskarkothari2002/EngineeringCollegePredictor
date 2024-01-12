@@ -13,3 +13,4 @@ Bridging the information gap in college selection for aspiring engineers, our we
 
 This application optimizes the college selection process by providing tailored results based on the student's individual preferences. As a web platform, the tool is accessible to a wide range of users, ensuring that it serves as a valuable resource for aspiring engineering students.
 # Tech Stack
+[python](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png)
